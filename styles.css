@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+  position: relative;
+}
+
+hr {
+  padding: 25px;
+}
+
+nav {
+  padding: 15px;
+}
+
+button {
+  padding: 25px;
+  background-color: darksalmon;
+  border-radius: 25px;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.test {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.test iframe {
+  padding: 25px;
+  border: none;
+}
+
+.test audio {
+  padding: 25px;
+}
+
+.test img {
+  padding: 25px;
+}
+
+table {
+  margin: auto;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  border: 2px solid black;
+}
+
+table td {
+  border: 1px solid black;
+}
+/*# sourceMappingURL=styles.css.map */
